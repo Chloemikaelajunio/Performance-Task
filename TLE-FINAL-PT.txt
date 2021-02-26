@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Group 9 Webpage: Today and Tomorrow</title> 
+    </head>
+    <frameset rows ="15%,75%", scrolling = "no", framespacing="0", frameborder="no", border="0" >
+        <frame src = "firstframe.html", scrolling = "no">
+    <frameset cols = "5%,95%", framespacing="0">
+	<frame src = "secondframe.html", scrolling = "no", framespacing="0", frameborder="no", border="0" >
+	<frame src = "mainframe.html">
+    </frameset>
+</html>

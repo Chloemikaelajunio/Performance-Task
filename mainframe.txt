@@ -1,0 +1,57 @@
+<html>
+ <H1><header>
+	<title>Today and Tomorrow</title>
+ </header></H1>
+	 <body bgcolor="#FFFFFF">
+	<div id="Today" name="Today" title="Subdivision Div Element" style="color: Blue;border: 4px solid #141B4D;"> 
+<font color="white", size="7", face="verdana"><span style="background-color: #141B4D">  TODAY  </span><font color="#141B4D", size="6", face="verdana"> TLE PERFORMANCE TASK
+	</div>  
+<br>
+<font color="white", size="5", face="verdana"><span style="background-color: #141B4D"> What is Corona Virus? </span><font size="1">_________.__._..__________________________________________<font color="white", size="5", face="verdana"><span style="background-color: #141B4D"> What is global health? </span>
+<br>
+<iframe="border: 2px #141B4D solid;">
+<iframe width="640", height="368", src="https://www.youtube.com/embed/w5HvxsOo00E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640", height="368", src="https://www.youtube.com/embed/HN6zpQGvkSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="4"><br><br>
+<font color="white", size="5", face="verdana"><p align="center"><span style="background-color: #141B4D"> RELEVANT GLOBAL HEALTH-RELATED ISSUES WORSEN BY COVID-19 </span>
+	<div id="column1" style="float:left; margin:2%; width:44%;"><p align="center"><font color="black"><font size="4"><font face="verdana"><u>
+		<br>Access To Treatments</u>
+<br>
+	<font color="black", size="3", face="verdana"><p align="justify"><i> This issue occurred for a long time but it became even relevant to the majority of the countries today, mainly due to poverty and is also worsen due to the sudden emergence of the pandemic.
+    	</i></div>
+	<div id="column3" style="float:left; margin:2%;width:44%;"><font color="black"><font size="4"><font face="verdana"><p align="center"><u>
+		 <br>Epidemic Preparednesss</u>
+<br>
+	<font color="black", size="3", face="verdana"><p align="justify"><i> Due to the lack of awareness and implementation of emergencies, this issue had aggravated the world on its peak. In the context of health care and public health practices, medical interventions requires different steps to prevent and eliminate the transmission of infectious diseases, however, due to delayed actions, majority of the countries are under torment.
+	</div>
+	<div id="column4" style="float:left; margin:2%;width:44%;"><p align="center"><font color="black"><font size="4"><font face="verdana"><u>
+<br>Capitalizing On Technological Advancements</u>
+<br>
+	<font color="black", size="3", face="verdana"><p align="justify"><i>The use of digital technologies in the Philippines, however, is still below its potential, with the country’s digital adoption generally trailing behind many regional neighbors. The “digital divide” between those with and without internet leads to unequal access to social services and life-changing economic opportunities. This pandemic has caused substantial disruptions in the domestic economy as community restrictions have limited movement of people and reduced business operations nationwide. </i>
+	</div>	 
+<br><br>
+	<div id="column6" style="float:left; margin:2%;width:44%;"><p align="center"><font color="black"><font size="4"><font face="verdana"><u>
+	 <br>Health Care Sanitation</u>
+<br>
+	<font color="black", size="3", face="verdana"><p align="justify"><i> This issue transpired years ago but is currently rampant world wide due to the Covid-19 outbreak that caused insufficient worker's to hospitals and health care facilities   leading to the decline of sanitary measures.</i>
+	</div>
+<br>
+	<div id="rate", style="float:left; margin:2%;width:80%;"><font color="white", size="6", face="verdana"><span style="background-color: #141B4D">  COVID-19 STATISTICS  </span><font color="#141B4D", size="6", face="verdana">
+		<img src="https://scontent.xx.fbcdn.net/v/t1.15752-0/p403x403/149248709_232393981916712_7770301475973431906_n.png?_nc_cat=103&ccb=3&_nc_sid=aee45a&_nc_ohc=OxRRd8OFpYsAX8GkulX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=5d905f6dbd1bffb265bf1379157c24be&oe=605CFD7E" width = 900, border = 4px>
+	</div>
+	<div id="rate", style="float:left; margin:2%;width:80%;"><font color="white", size="6", face="verdana"><span style="background-color: #141B4D">  PRECAUTIONARY SAFETY MEASURES TO OBSERVE  </span><font color="#141B4D", size="6", face="verdana">
+		<img src="https://www.rainbowvalleynursery.com/images/English_Management_FINAL.jpg" width = 900, border = 4px>
+	</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<div id="Tomorrow" name="Tomorrow" title="Subdivision Div Element" style="color: Blue;border: 4px solid #141B4D; float:left; margin:0;width:100%;"></i>
+<font color="white", size="7", face="verdana"><span style="background-color: #141B4D">  TOMORROW  </span><font color="#141B4D", size="6", face="verdana"> MATH PERFORMANCE TASK
+	</div>  
+<br><br>
+	<div id="Tomsubdiv",style="float:left; margin:0;width:100%;">
+	<font color="black", size="5", face="verdana"><a href="https://youtu.be/okcK-kLiz_U">Math Advocacy: Hope Within Us</a href>
+<br>
+<font color="black", size="3", face="verdana">(open in new tab to open)
+	</div>
+<br><br><br><br>
+	</body>
+</html>
